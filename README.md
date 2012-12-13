@@ -2,6 +2,8 @@
  NetBeans Platform Applications
 -------------------------------------------------------
 
+These apps are evaluation of NetBeans RCP features.
+
 1. ImprovApp: A prorotype application displaying data with the Prefuse Tree Map.
 The input data are based on your local file system hierarchy.  After checking out files, compile the main App and run from NetBeans.
 
