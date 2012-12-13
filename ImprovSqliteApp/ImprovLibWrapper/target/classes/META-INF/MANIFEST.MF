@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: gov/pnnl/improv/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20121129
+OpenIDE-Module-Build-Version: 201211292358
+OpenIDE-Module: gov.pnnl.improv.ImprovLibWrapper
+OpenIDE-Module-Public-Packages: prefuse.**, prefuse.action.**, prefuse
+ .data.**, prefuse.render.**, prefuse.util.**, prefuse.visual.**, org.
+ ibex.nestedvm.**, org.ibex.nestedvm.util.**, org.sqlite.**
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: gov.pnnl.improv
+OpenIDE-Module-Name: ImprovLibWrapper
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+X-Class-Path: ext/org.prefuse/prefuse-beta-20071021.jar ext/org.xerial
+ /sqlite-jdbc-3.7.2.jar
+Maven-Class-Path: org.prefuse:prefuse:beta-20071021 org.xerial:sqlite-
+ jdbc:3.7.2
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.14.1
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="gov.pnnl.improv.ImprovCommonApi">
+    <module_version install_time="1354576586277" last="true" origin="installer" specification_version="1.0">
+        <file crc="1973792420" name="config/Modules/gov-pnnl-improv-ImprovCommonApi.xml"/>
+        <file crc="2883551690" name="modules/gov-pnnl-improv-ImprovCommonApi.jar"/>
+    </module_version>
+</module>

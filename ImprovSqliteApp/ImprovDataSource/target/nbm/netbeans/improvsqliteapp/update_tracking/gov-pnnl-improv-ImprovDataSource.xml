@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="gov.pnnl.improv.ImprovDataSource">
+    <module_version install_time="1354576578561" last="true" origin="installer" specification_version="1.0">
+        <file crc="3798874028" name="config/Modules/gov-pnnl-improv-ImprovDataSource.xml"/>
+        <file crc="1218663758" name="modules/gov-pnnl-improv-ImprovDataSource.jar"/>
+    </module_version>
+</module>

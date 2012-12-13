@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="gov.pnnl.improv.ImprovSqliteApp.branding">
+    <module_version install_time="1354576586168" last="true" origin="installer" specification_version="1.0">
+        <file crc="1951651924" name="config/Modules/gov-pnnl-improv-ImprovSqliteApp-branding.xml"/>
+        <file crc="4043472006" name="core/locale/core_improvsqliteapp.jar"/>
+        <file crc="3070222450" name="modules/gov-pnnl-improv-ImprovSqliteApp-branding.jar"/>
+        <file crc="1245739645" name="modules/locale/org-netbeans-core-windows_improvsqliteapp.jar"/>
+        <file crc="3636742850" name="modules/locale/org-netbeans-core_improvsqliteapp.jar"/>
+        <file crc="1095163921" name="update_tracking/gov-pnnl-improv-ImprovSqliteApp-branding.xml"/>
+    </module_version>
+</module>

@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: gov/pnnl/improv/improvdatasource/Bun
+ dle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20121203
+OpenIDE-Module-Build-Version: 201212032316
+OpenIDE-Module: gov.pnnl.improv.ImprovDataSource
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Display-Category: gov.pnnl.improv
+OpenIDE-Module-Name: ImprovDataSource
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.14.1, gov.pnnl.improv.ImprovLibWrapper > 1.0, gov.pnnl.improv
+ .ImprovCommonApi > 1.0, org.openide.util > 8.25.2, org.openide.util.l
+ ookup > 8.15.2, org.openide.explorer > 6.45.1, org.openide.windows > 
+ 6.55.2, org.openide.awt > 7.46.1, org.netbeans.modules.settings/1 > 1
+ .35.1, org.openide.nodes > 7.28.1, org.openide.modules > 7.32.1
+

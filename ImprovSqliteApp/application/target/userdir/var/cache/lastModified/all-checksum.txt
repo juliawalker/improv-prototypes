@@ -1,0 +1,9 @@
+home=1354581235463
+bin=1354581235463
+etc=1354581235463
+improvsqliteapp=1354581235463
+platform=1354581235463
+user=1354581235463
+crc=7
+locale=en_US
+branding=improvsqliteapp
