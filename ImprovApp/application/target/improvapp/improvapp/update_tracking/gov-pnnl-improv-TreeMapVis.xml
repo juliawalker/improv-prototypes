@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="gov.pnnl.improv.TreeMapVis">
+    <module_version install_time="1354048675347" last="true" origin="installer" specification_version="1.0">
+        <file crc="2049797216" name="config/Modules/gov-pnnl-improv-TreeMapVis.xml"/>
+        <file crc="1182104942" name="modules/gov-pnnl-improv-TreeMapVis.jar"/>
+    </module_version>
+</module>

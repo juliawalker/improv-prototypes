@@ -1,0 +1,9 @@
+home=1354048683662
+bin=1354048683662
+etc=1354048683662
+improvapp=1354048683662
+platform=1354048683662
+user=1354048683662
+crc=7
+locale=en_US
+branding=improvapp

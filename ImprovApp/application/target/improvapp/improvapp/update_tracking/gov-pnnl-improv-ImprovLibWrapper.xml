@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="gov.pnnl.improv.ImprovLibWrapper">
+    <module_version install_time="1354048676720" last="true" origin="installer" specification_version="1.0">
+        <file crc="4270001644" name="config/Modules/gov-pnnl-improv-ImprovLibWrapper.xml"/>
+        <file crc="2100045422" name="modules/ext/org.prefuse/prefuse-beta-20071021.jar"/>
+        <file crc="3061427022" name="modules/gov-pnnl-improv-ImprovLibWrapper.jar"/>
+    </module_version>
+</module>

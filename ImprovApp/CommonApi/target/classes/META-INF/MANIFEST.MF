@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: gov/pnnl/improv/commonapi/Bundle.pro
+ perties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20121126
+OpenIDE-Module-Build-Version: 201211262231
+OpenIDE-Module: gov.pnnl.improv.CommonApi
+OpenIDE-Module-Public-Packages: gov.pnnl.improv.commonapi.tree.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: gov.pnnl.improv
+OpenIDE-Module-Name: CommonApi
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.14.1, gov.pnnl.improv.ImprovLibWrapper > 1.0
+

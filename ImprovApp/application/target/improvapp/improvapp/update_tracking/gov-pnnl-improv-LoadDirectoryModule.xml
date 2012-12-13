@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="gov.pnnl.improv.LoadDirectoryModule">
+    <module_version install_time="1354048675113" last="true" origin="installer" specification_version="1.0">
+        <file crc="1814872153" name="config/Modules/gov-pnnl-improv-LoadDirectoryModule.xml"/>
+        <file crc="1053055907" name="modules/gov-pnnl-improv-LoadDirectoryModule.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="File">
+            <file name="gov-pnnl-improv-dirloader-DirectoryLoadingActionListener.instance">
+                <!--gov.pnnl.improv.dirloader.DirectoryLoadingActionListener-->
+                <attr
+                    bundlevalue="gov.pnnl.improv.dirloader.Bundle#CTL_DirectoryLoadingActionListener" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="gov.pnnl.improv.dirloader.DirectoryLoadingActionListener"/>
+                <attr name="iconBase" stringvalue="gov/pnnl/improv/dirloader/folder_green_open_16.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="File">
+            <file name="gov-pnnl-improv-dirloader-DirectoryLoadingActionListener.shadow">
+                <!--gov.pnnl.improv.dirloader.DirectoryLoadingActionListener-->
+                <attr name="originalFile" stringvalue="Actions/File/gov-pnnl-improv-dirloader-DirectoryLoadingActionListener.instance"/>
+                <attr intvalue="1300" name="position"/>
+            </file>
+            <file name="gov-pnnl-improv-dirloader-DirectoryLoadingActionListener-separatorBefore.instance">
+                <!--gov.pnnl.improv.dirloader.DirectoryLoadingActionListener-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="1250" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

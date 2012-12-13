@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: gov/pnnl/improv/dirloader/Bundle.pro
+ perties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20121126
+OpenIDE-Module-Build-Version: 201211262232
+OpenIDE-Module: gov.pnnl.improv.LoadDirectoryModule
+OpenIDE-Module-Public-Packages: gov.pnnl.improv.dirloader.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: gov.pnnl.improv
+OpenIDE-Module-Name: LoadDirectoryModule
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.14.1, org.openide.util > 8.25.2, org.openide.awt > 7.46.1, go
+ v.pnnl.improv.CommonApi > 1.0, org.openide.util.lookup > 8.15.2, gov.
+ pnnl.improv.ImprovLibWrapper > 1.0
+

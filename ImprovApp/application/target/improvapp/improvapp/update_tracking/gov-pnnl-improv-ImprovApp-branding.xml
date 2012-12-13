@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="gov.pnnl.improv.ImprovApp.branding">
+    <module_version install_time="1354048675019" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="3820881028" name="config/Modules/gov-pnnl-improv-ImprovApp-branding.xml"/>
+        <file crc="3667140724" name="core/locale/core_improvapp.jar"/>
+        <file crc="2743616676" name="modules/gov-pnnl-improv-ImprovApp-branding.jar"/>
+        <file crc="1326721853" name="modules/locale/org-netbeans-core-windows_improvapp.jar"/>
+        <file crc="2439635355" name="modules/locale/org-netbeans-core_improvapp.jar"/>
+        <file crc="1186924195" name="update_tracking/gov-pnnl-improv-ImprovApp-branding.xml"/>
+    </module_version>
+</module>

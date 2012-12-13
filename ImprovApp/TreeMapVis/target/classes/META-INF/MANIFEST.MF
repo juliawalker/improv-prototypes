@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: gov/pnnl/improv/treemapvis/Bundle.pr
+ operties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20121127
+OpenIDE-Module-Build-Version: 201211272231
+OpenIDE-Module: gov.pnnl.improv.TreeMapVis
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Display-Category: gov.pnnl.improv
+OpenIDE-Module-Name: TreeMapVis
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.14.1, gov.pnnl.improv.CommonApi > 1.0, org.openide.windows > 
+ 6.55.2, org.openide.util > 8.25.2, org.openide.util.lookup > 8.15.2, 
+ org.openide.awt > 7.46.1, org.netbeans.modules.settings/1 > 1.35.1, g
+ ov.pnnl.improv.ImprovLibWrapper > 1.0
+
